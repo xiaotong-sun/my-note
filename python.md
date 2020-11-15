@@ -1,17 +1,3 @@
----
-title: python教程
-tags:
-  - python
-categories:
-  - 学海无涯
-  - python
-comments: true
-toc: true
-abbrlink: 3214607971
----
-
-
-
 Python概述：python是一种简单易学、功能强大的编程语言，它继承了传统编译语言的强大性和通用性，具有高层次的数据结构，支持面向对象的编程方法。
 
 <!--more-->
