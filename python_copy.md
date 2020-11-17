@@ -40,7 +40,7 @@ print(b)
 
 #### 实例
 
-```
+```python
 import copy
 a = {1: [1, 2, 3], 'name': 'hello'}
 b = copy.deepcopy(a)
